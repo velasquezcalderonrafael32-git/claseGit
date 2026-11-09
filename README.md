@@ -1,3 +1,3 @@
 # claseGit
-primt("hola")
+print("hola")
 # print 

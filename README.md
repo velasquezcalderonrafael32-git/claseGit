@@ -1,1 +1,3 @@
 # claseGit
+primt("hola")
+# print 
